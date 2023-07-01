@@ -1,0 +1,14 @@
+.dateParent ul li {
+  width: 100%;
+  padding: 50px;
+  background-color: rgb(130, 94, 94);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  gap: 50px;
+}
+li p {
+    font-size: 30px;
+
+}
